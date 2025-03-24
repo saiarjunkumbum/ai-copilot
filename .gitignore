@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Anaconda
+.conda/
+
+# Distribution / packaging
+dist/
+build/
